@@ -1,0 +1,3 @@
+this is from remote repo ,
+on lab2
+devops lab
