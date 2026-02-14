@@ -1,2 +1,2 @@
 TO check the branch changing
-this i sto differentiate the branches by giving different content
+this is to differentiate the branches by giving different content
